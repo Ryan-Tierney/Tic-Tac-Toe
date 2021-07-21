@@ -63,3 +63,7 @@ button:hover {
     cursor: pointer;
     background: rgb(163, 62, 163);
 }
+
+.occupied:hover {
+    background: rgb(136, 9, 9);
+}
